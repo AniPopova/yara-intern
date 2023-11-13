@@ -1,2 +1,2 @@
 # yara-intern
-Homework from internship program.
+Exercises from internship program.
